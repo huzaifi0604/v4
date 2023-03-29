@@ -134,7 +134,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
+            <p style="text-align:center">
               My name is Muhammad Huzaifa. I am currently enrolled in Bachelor's program for Cyber
               Security at FAST - NUCES. Throughout my academic career, I have gained extensive
               knowledge in programming languages such as Python, C++, and Java. In addition, I have
@@ -156,15 +156,14 @@ const About = () => {
               </a>
               ,{' '}
             </p>
-            <p>DataBase Systems and Data Structures' Lab Demonstrator at FAST - NUCES</p>
+            <p style="color:aqua">
+              DataBase Systems and Data Structures' Lab Demonstrator at FAST - NUCES
+            </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I also recently published a{' '}
+              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">BLOG</a> on
+              exploiting window's SMB module using Eternal Blue through Metasploit.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
