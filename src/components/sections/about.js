@@ -134,7 +134,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p style="text-align:center">
+            <p>
               My name is Muhammad Huzaifa. I am currently enrolled in Bachelor's program for Cyber
               Security at FAST - NUCES. Throughout my academic career, I have gained extensive
               knowledge in programming languages such as Python, C++, and Java. In addition, I have
@@ -156,14 +156,14 @@ const About = () => {
               </a>
               ,{' '}
             </p>
-            <p style="color:aqua">
-              DataBase Systems and Data Structures' Lab Demonstrator at FAST - NUCES
-            </p>
+            <p>DataBase Systems and Data Structures' Lab Demonstrator at FAST - NUCES</p>
 
             <p>
               I also recently published a{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">BLOG</a> on
-              exploiting window's SMB module using Eternal Blue through Metasploit.
+              <a href="https://huzzaifaasim.medium.com/exploiting-windows-smb-module-vulenerability-using-eternal-blue-exploit-metasploit-5fa3db5bab83">
+                BLOG
+              </a>{' '}
+              on exploiting window's SMB module using Eternal Blue through Metasploit.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
