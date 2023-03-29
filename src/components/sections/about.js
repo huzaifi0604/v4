@@ -3,6 +3,7 @@ import { StaticImage } from 'gatsby-plugin-image';
 import styled from 'styled-components';
 import { srConfig } from '@config';
 import sr from '@utils/sr';
+import './styles.css';
 import { usePrefersReducedMotion } from '@hooks';
 
 const StyledAboutSection = styled.section`
@@ -125,7 +126,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Flask',
+    'Socket.io',
+    'React Native',
+    'JavaScript',
+    'Python',
+    'x86 Assembly',
+    'C/ C++',
+    'Digital Forensics',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,10 +147,10 @@ const About = () => {
             <p>
               My name is Muhammad Huzaifa. I am currently enrolled in Bachelor's program for Cyber
               Security at FAST - NUCES. Throughout my academic career, I have gained extensive
-              knowledge in programming languages such as Python, C++, and Java. In addition, I have
-              also developed skills in Malware Analysis and SOC Analysis. In my spare time, I enjoy
-              participating in online cybersecurity competitions and staying up-to-date with the
-              latest cybersecurity trends and techniques.
+              knowledge in various programming languages and have also developed skills in Malware
+              Analysis and SOC Analysis. In my spare time, I enjoy participating in online
+              cybersecurity competitions and staying up-to-date with the latest cybersecurity trends
+              and techniques.
             </p>
 
             <p>
