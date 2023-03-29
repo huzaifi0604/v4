@@ -36,6 +36,12 @@ const StyledHeroSection = styled.section`
     line-height: 0.9;
   }
 
+  h4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18;
+    color: var(--green);
+  }
+
   p {
     margin: 20px 0 0;
     max-width: 540px;
