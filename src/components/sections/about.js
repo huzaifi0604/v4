@@ -143,7 +143,7 @@ const About = () => {
               latest cybersecurity trends and techniques.
             </p>
 
-            <p>
+            <p style="text-align:center">
               During this tenure I got the privilege to hone my skills at{' '}
               <a href="https://www.linkedin.com/posts/huzaifi0604_internship-completion-certificate-activity-6983426377731457024-0uyK?utm_source=share&utm_medium=member_desktop">
                 an advertising agency
