@@ -143,18 +143,20 @@ const About = () => {
               latest cybersecurity trends and techniques.
             </p>
 
-            <p style="text-align:center">
+            <p>
               During this tenure I got the privilege to hone my skills at{' '}
               <a href="https://www.linkedin.com/posts/huzaifi0604_internship-completion-certificate-activity-6983426377731457024-0uyK?utm_source=share&utm_medium=member_desktop">
-                an advertising agency
+                Cyber Defense & Network Security Intern @ Thincscorp
               </a>
-              , <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              ,{' '}
             </p>
+            <p>
+              <a href="https://www.linkedin.com/posts/huzaifi0604_csl-blueteam-cybersecurity-activity-6979030619301273601-IFTx?utm_source=share&utm_medium=member_desktop">
+                Blue Team Trainer @ CSL, NUCES
+              </a>
+              ,{' '}
+            </p>
+            <p>DataBase Systems and Data Structures' Lab Demonstrator at FAST - NUCES</p>
 
             <p>
               I also recently{' '}
