@@ -145,11 +145,9 @@ const About = () => {
 
             <p>
               During this tenure I got the privilege to hone my skills at{' '}
-              <br>
-                <a href="https://www.linkedin.com/posts/huzaifi0604_internship-completion-certificate-activity-6983426377731457024-0uyK?utm_source=share&utm_medium=member_desktop">
-                  Cyber Defense &amp;Network Security intern at Thincscorp
-                </a>
-              </br>
+              <a href="https://www.linkedin.com/posts/huzaifi0604_internship-completion-certificate-activity-6983426377731457024-0uyK?utm_source=share&utm_medium=member_desktop">
+                an advertising agency
+              </a>
               , <a href="https://starry.com/">a start-up</a>,{' '}
               <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
               <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
