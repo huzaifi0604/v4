@@ -139,8 +139,10 @@ const About = () => {
               currently pursuing a bachelor's degree in Cybersecurity and Digital Forensics from
               FAST - NUCES. Throughout my academic career, I have gained extensive knowledge in
               programming languages such as Python, C++, and Java. In addition, I have also
-              developed skills in Malware Analysis and SOC Analysis, which have equipped me to
-              effectively identify and remediate security threats.
+              developed skills in Malware Analysis and SOC Analysis. In my spare time, I enjoy
+              participating in online cybersecurity competitions and staying up-to-date with the
+              latest cybersecurity trends and techniques. If you are interested in connecting or
+              learning more about my experience, please don't hesitate to reach out.
             </p>
 
             <p>
