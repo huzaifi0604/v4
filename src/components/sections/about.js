@@ -135,20 +135,22 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              My name is Muhammad Huzaifa and I am a highly motivated and detail-oriented student
-              currently pursuing a bachelor's degree in Cybersecurity and Digital Forensics from
-              FAST - NUCES. Throughout my academic career, I have gained extensive knowledge in
-              programming languages such as Python, C++, and Java. In addition, I have also
-              developed skills in Malware Analysis and SOC Analysis. In my spare time, I enjoy
+              My name is Muhammad Huzaifa. I am currently enrolled in Bachelor's program for Cyber
+              Security at FAST - NUCES. Throughout my academic career, I have gained extensive
+              knowledge in programming languages such as Python, C++, and Java. In addition, I have
+              also developed skills in Malware Analysis and SOC Analysis. In my spare time, I enjoy
               participating in online cybersecurity competitions and staying up-to-date with the
-              latest cybersecurity trends and techniques. If you are interested in connecting or
-              learning more about my experience, please don't hesitate to reach out.
+              latest cybersecurity trends and techniques.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
+              During this tenure I got the privilege to hone my skills at{' '}
+              <br>
+                <a href="https://www.linkedin.com/posts/huzaifi0604_internship-completion-certificate-activity-6983426377731457024-0uyK?utm_source=share&utm_medium=member_desktop">
+                  Cyber Defense &amp;Network Security intern at Thincscorp
+                </a>
+              </br>
+              , <a href="https://starry.com/">a start-up</a>,{' '}
               <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
               <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
               main focus these days is building accessible, inclusive products and digital
