@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'huzzaifaasim@gmail.com',
+  email: 'brittany.chiang@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/huzaifi0604',
+      url: 'https://github.com/bchiang7',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/huzaifi0604',
+      url: 'https://www.instagram.com/bchiang7',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/huzaifi0604',
+      url: 'https://twitter.com/bchiang7',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/huzaifi0604',
+      url: 'https://www.linkedin.com/in/bchiang7',
     },
     {
-      name: 'Medium',
-      url: 'https://huzzaifaasim.medium.com/',
+      name: 'Codepen',
+      url: 'https://codepen.io/bchiang7',
     },
   ],
 
