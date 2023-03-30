@@ -156,15 +156,13 @@ const About = () => {
             <p>
               During this tenure I got the privilege to hone my skills at{' '}
               <a href="https://www.linkedin.com/posts/huzaifi0604_internship-completion-certificate-activity-6983426377731457024-0uyK?utm_source=share&utm_medium=member_desktop">
-                Cyber Defense & Network Security Intern @ Thincscorp
-              </a>
-              ,{' '}
+                Cyber Defense & Network Security Intern at Thincscorp
+              </a>{' '}
             </p>
             <p>
               <a href="https://www.linkedin.com/posts/huzaifi0604_csl-blueteam-cybersecurity-activity-6979030619301273601-IFTx?utm_source=share&utm_medium=member_desktop">
-                Blue Team Trainer @ CSL, NUCES
-              </a>
-              ,{' '}
+                Blue Team Trainer at CSL
+              </a>{' '}
             </p>
             <p>DataBase Systems and Data Structures' Lab Demonstrator at FAST - NUCES</p>
 
